@@ -49,6 +49,7 @@ RH134
 1 Improve Command-line Productivity
 
 - [ ] Zabbix
+9 done
 - [ ] Grafana
 - [ ] Ansible
 - [ ] Kubernetes 
@@ -96,7 +97,7 @@ RH134
 
 ![alt text](image-1.png)
 
-- [ ] The Hot Spot Season 1 Episode 1 
+- [ ] The Hot Spot Season 1 Episode 1 22:59
 
 
 - [x] prime video
